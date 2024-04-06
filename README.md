@@ -6,3 +6,4 @@ This contains following topics:
 - ECG Classification using ResNet, LSTM & Transformer
 - Weakly Supervised Visualization using ResNet, CAM, and Guided Backrprop
 - Model Distillation & Ternary Nets using VGG11
+- Distribution Adaptation of Pneumonia X-Rays using VAE
