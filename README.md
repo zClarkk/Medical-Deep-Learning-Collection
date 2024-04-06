@@ -7,3 +7,5 @@ This contains following topics:
 - Weakly Supervised Visualization using ResNet, CAM, and Guided Backrprop
 - Model Distillation & Ternary Nets using VGG11
 - Distribution Adaptation of Pneumonia X-Rays using VAE
+- Domaintranslation using a U-Net
+- Domaintranslation using a GAN
